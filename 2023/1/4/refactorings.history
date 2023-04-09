@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;tcsnqt.TcsNqt&apos; to &apos;ArrayZeroAtLastIndex&apos;&#x0D;&#x0A;- Original project: &apos;DASTAGEER&apos;&#x0D;&#x0A;- Original element: &apos;tcsnqt.TcsNqt&apos;&#x0D;&#x0A;- Renamed element: &apos;tcsnqt.ArrayZeroAtLastIndex&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;TcsNqt&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;tcsnqt{TcsNqt.java[TcsNqt" matchStrategy="1" name="ArrayZeroAtLastIndex" qualified="false" references="true" similarDeclarations="false" stamp="1674581369641" textual="false" version="1.0"/>
+</session>
